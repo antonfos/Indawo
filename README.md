@@ -9,7 +9,7 @@ In your web page define a div on your page with an ID
 example:
 `<div id="map_canvas" style="height:800px"></div>` 
 
-with a minimuim height of 350px;
+with a minimum height of 350px;
   
 After loading the indawo.min.js file
 
